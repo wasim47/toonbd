@@ -1,0 +1,21 @@
+{
+	"name":"PWA first Tutorial",
+	"short_name":"PWA first Tutorial",
+	"icons": [
+		{
+			"src":"assets/img/logo.png",
+			"sizes":"900x383",
+			"type":"image/png"
+		},
+		{
+			"src":"assets/img/logo512.png",
+			"sizes":"512x512",
+			"type":"image/png"
+		}
+	],
+	"start_url":".",
+	"background_color":"#f00f01",
+	"theme_color":"#009875",
+	"display":"standalone"
+
+}
